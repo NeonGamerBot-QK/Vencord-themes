@@ -1,0 +1,168 @@
+/* Customizable */
+:root {
+  --chat-bubble-default: grey;
+  --chat-bubble-replying: cyan;
+  --chat-bubble-mentioned: orange;
+  --chat-bubble-automod: red;
+  --enable-chat-bubble-border: 1;
+}
+
+/* NOT Customizable */
+:root {
+  /* Chat bubbles requirements */
+  --background-message-hover: none;
+  --background-mentioned: none;
+  --background-mentioned-hover: none;
+  --background-message-highlight: none;
+  --background-message-automod: none;
+  --background-message-automod-hover: none;
+  --info-warning-foreground: none;
+}
+
+/* [[ CHAT BUBBLES ]] */
+.channelTextArea_c2094b {
+  background: transparent;
+}
+
+.markup_a7e664.messageContent_abea64 a {
+  background: var(--background-modifier-accent);
+  color: var(--text-link);
+  font-weight: 600;
+  padding: 0 4px;
+  border-radius: 4px;
+}
+
+.groupStart__7b93c.cozyMessage__9f4fd
+  > .contents_d3ae0d:hover
+  .markup_a7e664.messageContent_abea64
+  a,
+.cozyMessage__9f4fd:not(.groupStart__7b93c)
+  > .contents_d3ae0d:hover
+  > .markup_a7e664:not(:empty, .searchResultsWrap__2e184 *)
+  a {
+  background: var(--background-modifier-hover);
+  text-decoration: none;
+}
+
+.groupStart__7b93c.cozyMessage__9f4fd > .contents_d3ae0d,
+.cozyMessage__9f4fd:not(.groupStart__7b93c)
+  > .contents_d3ae0d
+  > .markup_a7e664:not(:empty, .searchResultsWrap__2e184 *),
+.container__62863 > :not(.reactions_da5b2a, .searchResultsWrap__2e184 *) {
+  margin: 0;
+  padding: 8px;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--chat-bubble-default) 25%, transparent);
+  max-width: max-content;
+  box-sizing: border-box;
+  border: calc(2px * var(--enable-chat-bubble-border)) solid
+    var(--chat-bubble-default);
+
+  &:hover {
+    background: color-mix(in srgb, var(--chat-bubble-default) 50%, transparent);
+  }
+}
+
+.altText_a57338 {
+  margin: 8px 0 -4px;
+}
+
+.groupStart__7b93c.cozyMessage__9f4fd.replying__38514 > .contents_d3ae0d,
+.cozyMessage__9f4fd.replying__38514:not(.groupStart__7b93c)
+  > .contents_d3ae0d
+  > .markup_a7e664:not(:empty, .searchResultsWrap__2e184 *),
+.replying__38514
+  .container__62863
+  > :not(.reactions_da5b2a, .searchResultsWrap__2e184 *) {
+  background: color-mix(in srgb, var(--chat-bubble-replying) 25%, transparent);
+  border-radius: 8px;
+  max-width: max-content;
+  border: calc(2px * var(--enable-chat-bubble-border)) solid
+    var(--chat-bubble-replying);
+  &:hover {
+    background: color-mix(
+      in srgb,
+      var(--chat-bubble-replying) 50%,
+      transparent
+    );
+  }
+}
+
+.groupStart__7b93c.cozyMessage__9f4fd.mentioned_fa6fd2 > .contents_d3ae0d,
+.cozyMessage__9f4fd.mentioned_fa6fd2:not(.groupStart__7b93c)
+  > .contents_d3ae0d
+  > .markup_a7e664:not(:empty, .searchResultsWrap__2e184 *),
+.mentioned_fa6fd2
+  .container__62863
+  > :not(.reactions_da5b2a, .searchResultsWrap__2e184 *) {
+  background: color-mix(in srgb, var(--chat-bubble-mentioned) 25%, transparent);
+  border-radius: 8px;
+  border: calc(2px * var(--enable-chat-bubble-border)) solid
+    var(--chat-bubble-mentioned);
+
+  &:hover {
+    background: color-mix(
+      in srgb,
+      var(--chat-bubble-mentioned) 50%,
+      transparent
+    );
+  }
+}
+
+.groupStart__7b93c.cozyMessage__9f4fd.automodMessage__43f24 > .contents_d3ae0d,
+.cozyMessage__9f4fd.automodMessage__43f24:not(.groupStart__7b93c)
+  > .contents_d3ae0d
+  > .markup_a7e664:not(:empty, .searchResultsWrap__2e184 *),
+.automodMessage__43f24
+  .container__62863
+  > :not(.reactions_da5b2a, .searchResultsWrap__2e184 *) {
+  background: color-mix(in srgb, var(--chat-bubble-automod) 25%, transparent);
+  border-radius: 8px;
+  border: calc(2px * var(--enable-chat-bubble-border)) solid
+    var(--chat-bubble-automod);
+
+  &:hover {
+    background: color-mix(in srgb, var(--chat-bubble-automod) 50%, transparent);
+  }
+}
+
+.automodMessage__43f24:before,
+.replying__38514::before,
+.mentioned_fa6fd2::before {
+  display: none;
+}
+
+/* Message embeds (Vencord plugin) */
+.grid__35551 {
+  padding: 4px 8px 8px 6px;
+
+  & .embedAuthor__3e899 {
+    & span {
+      font-weight: bold;
+    }
+  }
+  & .message__7e601 {
+    padding: 8px 0;
+
+    & .avatar__08316 {
+      margin: 0;
+    }
+  }
+}
+
+/* Spotify embeds */
+.container__62863 > .embedSpotify__13fe9 {
+  padding: 0;
+  border-radius: 12px !important;
+}
+
+/* Fix avatar location */
+.contents_d3ae0d {
+  & [class^="avatar__"] {
+    margin-top: -10px;
+  }
+
+  & .avatarDecoration__8a0c2 {
+    margin-top: -14px;
+  }
+}

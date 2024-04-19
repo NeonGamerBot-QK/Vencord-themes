@@ -1,0 +1,6 @@
+div:not(:has(.videoWrapper_d4e723)) + .pictureInPicture__9579b,
+div:not(:has(.videoWrapper_d4e723)) + .pictureInPicture__9579b * {
+    opacity: 0;
+    pointer-events: none !important;
+    transition: 0s !important;
+}

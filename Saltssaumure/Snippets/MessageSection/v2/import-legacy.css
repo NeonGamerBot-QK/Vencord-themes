@@ -1,0 +1,211 @@
+/* [[ CHAT AREA ]] */
+.form_d8a4a1 {
+  margin-top: 0;
+  padding: 0;
+}
+
+.form_d8a4a1 .buttons__7ecff {
+  overflow: hidden;
+  position: relative;
+  justify-content: flex-end;
+  transition: all 350ms;
+}
+
+.form_d8a4a1 .buttons__7ecff > :is(button, div) {
+  display: flex;
+  justify-content: center;
+}
+
+.form_d8a4a1 .buttons__7ecff:where(:not(:hover)) {
+  max-width: 32px;
+}
+
+.form_d8a4a1 .buttons__7ecff::before {
+  opacity: 0%;
+  transition: opacity 150ms;
+  position: absolute;
+  bottom: 4px;
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='352' height='42' x='80' y='96' fill='rgb(181, 186, 193)' class='ci-primary'/%3E%3Crect width='352' height='42' x='80' y='240' fill='rgb(181, 186, 193)' class='ci-primary'/%3E%3Crect width='352' height='42' x='80' y='384' fill='rgb(181, 186, 193)' class='ci-primary'/%3E%3C/svg%3E");
+  display: block;
+  width: 32px;
+}
+
+.form_d8a4a1 .buttons__7ecff:where(:not(:hover))::before {
+  opacity: 100%;
+  transition: opacity 1000ms;
+}
+
+.form_d8a4a1 .buttons__7ecff:hover {
+  transition: all 150ms;
+  width: 50%;
+}
+
+.form_d8a4a1 .buttons__7ecff > :is(div, button) {
+  transform: scaleX(0%) !important;
+  opacity: 0%;
+  display: flex;
+  justify-content: center;
+}
+
+.form_d8a4a1 .buttons__7ecff:hover > :is(div, button) {
+  display: flex;
+  transform: scaleX(100%) !important;
+  transition: opacity 300ms;
+  opacity: 100%;
+}
+
+.buttons__7ecff > :is(div, button):hover svg {
+  background: var(--background-modifier-hover);
+  color: var(--interactive-hover);
+}
+
+.buttons__7ecff > :is(div, button) svg {
+  padding: 3px;
+  border-radius: 4px;
+}
+
+.separator__666aa {
+  grid-column: 4;
+  margin-right: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+.separator__666aa .innerButton__9efb8 {
+  padding: 0;
+  margin: 0;
+}
+
+.channelTextArea_c2094b .divider__855e3 {
+  border-top: none;
+}
+
+.channelAttachmentArea__5e46a {
+  background: var(--background-tertiary);
+  margin-left: 4px;
+  padding: 8px;
+  gap: 8px;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+.upload_c98ecb {
+  min-height: 150px;
+  max-height: 150px;
+  min-width: 150px;
+  max-width: 150px;
+}
+
+.actionBar_a15295 {
+  transform: translate(0, -16px);
+}
+
+.actionBar_a15295 .button_d4bf9b {
+  background: var(--background-tertiary);
+}
+
+/* align chatbox to bottom */
+.form_d8a4a1 > :first-child {
+  margin-bottom: 0px;
+}
+
+/* center chatbox contents, no border radius */
+.form_d8a4a1 > :first-child > * {
+  padding-top: 4px;
+  min-height: 49px;
+  border-radius: 0;
+}
+
+/* slowmode/typing indicator */
+.form_d8a4a1 > :last-child[class^="typing"] {
+  top: -32px;
+  right: 24px;
+  padding: 0px 16px 0px 8px;
+  margin-left: auto;
+  width: fit-content;
+  border-radius: 4px;
+  background: var(--background-tertiary);
+}
+
+/* jump to present */
+.jumpToPresentBar__69174 {
+  padding: 0;
+  left: 0;
+  border-radius: 4px;
+  margin: 8px;
+  width: fit-content !important;
+  background: var(--background-tertiary);
+  right: unset;
+}
+
+.jumpToPresentBar__69174:active {
+  margin-bottom: 8px;
+}
+
+.jumpToPresentBar__69174 > .barButtonMain__984b4 {
+  flex: 0 0 auto;
+}
+
+.attachedBars_c1606a {
+  min-height: unset !important;
+  position: relative;
+  margin: 0px 24px 4px 4px;
+  padding: 4px 0;
+  border-radius: 4px !important;
+  background: var(--background-tertiary);
+}
+
+.replyBar_ed6afc {
+  background: none;
+}
+
+/* Positions both the *new messages* and *viewing old messages* bars on top of the channel text area. */
+.barBase__8839d {
+  --bar-height: 24px;
+  --bar-edges: 24px;
+}
+
+.messagesWrapper_add28b:has(.newMessagesBar__8b272):has(
+    .jumpToPresentBar__69174
+  )
+  .barBase__8839d {
+  align-items: flex-start;
+  height: var(--bar-height);
+  overflow: hidden;
+  width: calc(50% - var(--bar-edges));
+}
+
+.base__06abc .typingDots__0448d svg {
+  margin-right: 4px;
+}
+
+.newMessagesBar__8b272 {
+  height: 24px;
+  margin-bottom: 8px;
+  margin-left: calc(var(--bar-edges) * -1 + 8px);
+  border-radius: 4px;
+  inset: auto var(--bar-edges) 0;
+  background: var(--background-tertiary);
+}
+
+.messagesWrapper_add28b:has(.jumpToPresentBar__69174) .newMessagesBar__8b272 {
+  left: auto;
+}
+
+.newMessagesBar__8b272:hover .span_b2761b,
+.jumpToPresentBar__69174:hover .barButtonMain__984b4 {
+  animation: vertiscroll 0.5s linear forwards;
+  display: block;
+  height: auto;
+  overflow: visible;
+  white-space: normal;
+}
+
+@keyframes vertiscroll {
+  0% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(calc(-100% + var(--bar-height)));
+  }
+}

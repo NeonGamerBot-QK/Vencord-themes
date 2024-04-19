@@ -1,0 +1,64 @@
+/* [[ GUILD BOOSTS ]] */
+.textArea__81b51 {
+  padding: 0 8px;
+}
+
+.progressBar_db0972 {
+  height: 40px;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--brand-experiment) 50%, transparent);
+}
+
+.containerWithMargin__3a652 {
+  position: relative;
+  top: 25px;
+  margin: 0;
+  padding: 0;
+  width: 105%;
+}
+
+.tadaIcon__5e3cc {
+  right: 98%;
+  top: 6px;
+  translate: none;
+  font-size: 36px;
+  opacity: 0.5;
+}
+
+.progressBarContainer_e11b41 {
+  top: -40px;
+  z-index: -1;
+  height: 40px;
+  border-radius: 8px;
+}
+
+.container_bc43c1 {
+  position: relative;
+  top: 25px;
+  margin: 0;
+  padding: 0;
+  width: 105%;
+
+  &:hover {
+    & .progressBar_db0972 {
+      animation: 5s flicker linear infinite;
+      background: color-mix(in srgb, var(--brand-experiment) 75%, transparent);
+    }
+
+    & .tadaIcon__5e3cc {
+      animation: 3s flicker linear infinite;
+    }
+  }
+}
+
+@keyframes flicker {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}

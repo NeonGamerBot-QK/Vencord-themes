@@ -1,0 +1,63 @@
+.nameTag__77ab2 {
+    display: none;
+}
+.avatarWrapper__500a6 {
+    margin: 0;
+    padding: 7px;
+    width: calc((100%/4) - 14px) !important;
+    justify-content: center;
+    min-width: unset !important;
+    height: 42px !important;
+    border-radius: 8px !important;
+    cursor: pointer;
+    transition: .2s ease;
+}
+.panels__58331 :has(.flex_f18b02 > :nth-child(4)) .avatarWrapper__500a6 {
+    width: calc((100%/5) - 14px) !important;
+}
+.container_debb33 {
+    padding: 6px;
+    gap: 4px;
+}
+.panels__58331 .flex_f18b02 {
+    gap: 4px;
+    width: calc((100%/4)*3);
+    height: 56px;
+}
+.panels__58331 .flex_f18b02:has(>:nth-child(4)) {
+    width: calc((100%/5)*4);
+}
+.panels__58331 .flex_f18b02,
+.panels__58331 .avatarWrapper__500a6 {
+    height: 100%;
+    align-items: center;
+}
+.panels__58331 .flex_f18b02 .button_ae40a4 {
+    width: 100%;
+    border-radius: 8px !important;
+    cursor: pointer;
+    height: 56px;
+    transition: .2s ease;
+}
+#vc-spotify-player {
+    border-bottom: none;
+    padding: 12px;
+    padding-bottom: 0;
+}
+#vc-spotify-info-wrapper,
+.vc-spotify-button-row {
+    justify-content: space-between;
+}
+#vc-spotify-album-image {
+    order: 1;
+}
+.vc-spotify-button-row {
+    gap: 4px !important;
+    margin: 8px -6px 0 -6px;
+}
+.vc-spotify-button {
+    border-radius: 6px;
+    width: 100%;
+    transition: .2s ease;
+    height: 36px;
+}

@@ -1,0 +1,52 @@
+/* Message types (ENGLISH) */
+/* Removes the edited sign */
+.edited_b20dd9 {
+  font-size: 0;
+}
+
+.contents_d3ae0d .username__0b0e7::after {
+  content: " wrote:";
+}
+
+.message_ccca67:has(.edited_b20dd9) .contents_d3ae0d .username__0b0e7::after {
+  content: " wrote and edited:";
+}
+
+.message_ccca67:has(.mediaAttachmentsContainer__242e2, .embed_cc6dae)
+  .contents_d3ae0d
+  .username__0b0e7::after {
+  content: " sent attachment(s):";
+}
+
+.message_ccca67:has(.stickerAsset_ab864f)
+  .contents_d3ae0d
+  .username__0b0e7::after {
+  content: " sent a sticker:";
+}
+
+.message_ccca67:has(.emoji.jumboable) .contents_d3ae0d .username__0b0e7::after {
+  content: " sent emoji(s):";
+}
+
+.hasReply__602e2 .contents_d3ae0d .username__0b0e7::after {
+  content: " replied:";
+}
+
+.message_ccca67.hasReply__602e2:has(.edited_b20dd9)
+  .contents_d3ae0d
+  .username__0b0e7::after {
+  content: " replied and edited:";
+}
+
+.mentioned_fa6fd2 .contents_d3ae0d .username__0b0e7::after {
+  content: " mentioned:";
+}
+
+.mentioned_fa6fd2:has(.edited_b20dd9) .contents_d3ae0d .username__0b0e7::after {
+  content: " mentioned and edited:";
+}
+
+/* Add color to extra elements */
+.username__0b0e7::after {
+  color: var(--text-muted);
+}

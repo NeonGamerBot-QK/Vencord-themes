@@ -1,0 +1,52 @@
+/* Message types (GERMAN) */
+/* Removes the edited sign */
+.edited_b20dd9 {
+  font-size: 0;
+}
+
+.contents_d3ae0d .username__0b0e7::after {
+  content: " hat geschrieben:";
+}
+
+.message_ccca67:has(.edited_b20dd9) .contents_d3ae0d .username__0b0e7::after {
+  content: " hat geschrieben und bearbeitet:";
+}
+
+.message_ccca67:has(.mediaAttachmentsContainer__242e2, .embed_cc6dae)
+  .contents_d3ae0d
+  .username__0b0e7::after {
+  content: " hat Anhänge gesendet:";
+}
+
+.message_ccca67:has(.stickerAsset_ab864f)
+  .contents_d3ae0d
+  .username__0b0e7::after {
+  content: " hat einen Sticker gesendet:";
+}
+
+.message_ccca67:has(.emoji.jumboable) .contents_d3ae0d .username__0b0e7::after {
+  content: " hat Emojis gesendet:";
+}
+
+.hasReply__602e2 .contents_d3ae0d .username__0b0e7::after {
+  content: " hat geantwortet:";
+}
+
+.message_ccca67.hasReply__602e2:has(.edited_b20dd9)
+  .contents_d3ae0d
+  .username__0b0e7::after {
+  content: " hat geantwortet und bearbeitet:";
+}
+
+.mentioned_fa6fd2 .contents_d3ae0d .username__0b0e7::after {
+  content: " hat dir erwähnt:";
+}
+
+.mentioned_fa6fd2:has(.edited_b20dd9) .contents_d3ae0d .username__0b0e7::after {
+  content: " hat dir erwähnt und bearbeitet:";
+}
+
+/* Add color to extra elements */
+.username__0b0e7::after {
+  color: var(--text-muted);
+}
