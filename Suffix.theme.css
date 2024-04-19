@@ -1,0 +1,49 @@
+/* ShowMeYourName plugin */
+.vc-smyn-suffix:before {
+    content: "| @" !important
+}
+.vc-smyn-suffix:after {
+    content: "" !important
+}
+.vc-smyn-suffix {
+    color: currentColor !important;
+    opacity: 0.5
+}
+/* Username */
+.username-h_Y3Us, 
+.base-3bcbY3 .text-3S7XCz strong, 
+.name-3DDHNY {
+    background: color-mix(in srgb, currentColor 25%, rgba(0, 0, 0, 0.25));
+    text-shadow: 0 0 5px color-mix(in srgb, currentColor 25%, rgb(0, 0, 0));
+    filter: brightness(1.25);
+    margin-right: 4px;
+    padding: 0 4px;
+    border-radius: 4px;
+}
+.username-h_Y3Us::after {
+    position: relative;
+    margin: 0 0 0 8px;
+    color: inherit;
+    text-shadow: 0 0 5px black;
+}
+.contents-2MsGLg .username-h_Y3Us::after {
+content: "wrote:"
+}
+.message-2CShn3:has(.edited-1v5nT8) .contents-2MsGLg .username-h_Y3Us::after {
+content: "wrote and edited:";
+}
+.message-2CShn3:has(.mediaAttachmentsContainer-1WGRWy, .embed-hKpSrO) .contents-2MsGLg .username-h_Y3Us::after {
+content: "sent attachment(s):"
+}
+.message-2CShn3:has(.stickerAsset-4c7Oqy) .contents-2MsGLg .username-h_Y3Us::after {
+content: "sent a sticker:"
+}
+.message-2CShn3:has(.emoji.jumboable) .contents-2MsGLg .username-h_Y3Us::after {
+content: "sent emoji(s):"
+}
+.hasReply-2Cr4KE .contents-2MsGLg .username-h_Y3Us::after {
+content: "replied:"
+}
+.mentioned-Tre-dv .contents-2MsGLg .username-h_Y3Us::after {
+content: "mentioned:"
+}
