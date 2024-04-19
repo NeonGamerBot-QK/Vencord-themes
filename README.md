@@ -1,2 +1,1 @@
-# Vencord-themes
-My Vencord Themes
+Going to be replaced by zeon...
