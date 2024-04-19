@@ -1,0 +1,5 @@
+[class^=avatar_]:hover + [class^=avatarDecoration_],
+[class^=avatar_]:hover [class^=avatarDecoration_]
+ { opacity: 0 !important; }
+[class^=avatarDecoration_]
+ { transition: .3s opacity; }
