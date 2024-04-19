@@ -1,0 +1,45 @@
+/* Make My Mention Different From Other Mentions without affecting #CHANNEL  */
+.theme-dark .mentioned_fa6fd2 .mention {
+    color: red !important;
+    }
+
+.theme-dark .mention {
+  color: grey;
+  background-color: transparent;
+}
+
+/* Better Mentions Pulse (after fix) */
+.mentioned_fa6fd2 .mention {
+  background-color: transparent !important;
+}
+.theme-dark .mentioned_fa6fd2 .mention {
+  cursor: pointer;
+  box-shadow: 0 0 0 red;
+  animation: pulse 1.6s infinite;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 red;
+  }
+  70% { 
+      -webkit-box-shadow: 0 0 0 2px red;
+  }
+  100% {
+      -webkit-box-shadow: 0 0 0 0 transparent;
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 transparent;
+    box-shadow: 0 0 0 0 transparent;
+  }
+  70% { 
+      -moz-box-shadow: 0 0 0 2px red;
+      box-shadow: 0 0 0 2px red;
+  }
+  100% {
+      -moz-box-shadow: 0 0 0 0 transparent;
+      box-shadow: 0 0 0 0 transparent;
+  }
+}
