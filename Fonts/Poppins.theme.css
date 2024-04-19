@@ -4,7 +4,7 @@
     --font-primary: "Poppins";
 
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
-    --font-display: "Roboto";
-    --font-headline: "Roboto";
-    --font-code: "Roboto"; /* you should use a monospace font for this */
+    --font-display: "Poppins";
+    --font-headline: "Poppins";
+    --font-code: "Poppoins"; /* you should use a monospace font for this */
 }
