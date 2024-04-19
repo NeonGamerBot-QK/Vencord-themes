@@ -1,0 +1,23 @@
+.messagesWrapper_ea2b0b {
+    overflow: hidden;
+}
+.newMessagesBar__8b6d7 {
+    top: -48px;
+    height: 72px;
+    transition: top 0.2s ease;
+    background: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+.newMessagesBar__8b6d7::before {
+    content: '';
+    background: var(--brand-experiment);
+    box-shadow: var(--elevation-low);
+    width: 100%;
+    position: absolute;
+    height: 32px;
+    border-radius: 12px;
+}
+.newMessagesBar__8b6d7:hover {
+    top: -12px;
+}
