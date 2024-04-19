@@ -1,0 +1,12 @@
+[class^=accountProfilePopoutWrapper] {
+left: 0
+}
+[class^=accountProfilePopoutWrapper] [class*=userPopout] {
+margin: 0;
+width: fit-content
+}
+[class^=accountProfilePopoutWrapper] .section-28YDOf,
+.userPopoutInner-nv9Y92:has(#account) > *:not(:has(#account)),
+.userPopoutOverlayBackground-3A0Pcz:has(#account) > *:not(#account) {
+display: none;
+}
