@@ -1,0 +1,1268 @@
+[
+    {
+        "path": "Animation/AccountAnimation.theme.css",
+        "type": "file",
+        "name": "AccountAnimation.theme.css",
+        "tags": [
+            "AccountAnimation.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Animation"
+        ]
+    },
+    {
+        "path": "Animation/All.theme.css",
+        "type": "file",
+        "name": "All.theme.css",
+        "tags": [
+            "All.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Animation"
+        ]
+    },
+    {
+        "path": "Animation/ChannelAnimate.theme.css",
+        "type": "file",
+        "name": "ChannelAnimate.theme.css",
+        "tags": [
+            "ChannelAnimate.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Animation"
+        ]
+    },
+    {
+        "path": "Animation/MessageAnimation.theme.css",
+        "type": "file",
+        "name": "MessageAnimation.theme.css",
+        "tags": [
+            "MessageAnimation.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Animation"
+        ]
+    },
+    {
+        "path": "Animation/ServerCollapseAnimation.theme.css",
+        "type": "file",
+        "name": "ServerCollapseAnimation.theme.css",
+        "tags": [
+            "ServerCollapseAnimation.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Animation"
+        ]
+    },
+    {
+        "path": "Avatar/RemoveAvatarDecorationOnHover.theme.css",
+        "type": "file",
+        "name": "RemoveAvatarDecorationOnHover.theme.css",
+        "tags": [
+            "RemoveAvatarDecorationOnHover.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Avatar"
+        ]
+    },
+    {
+        "path": "Fonts/BetterCodeFont.theme.css",
+        "type": "file",
+        "name": "BetterCodeFont.theme.css",
+        "tags": [
+            "BetterCodeFont.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Fonts"
+        ]
+    },
+    {
+        "path": "Fonts/Poppins.theme.css",
+        "type": "file",
+        "name": "Poppins.theme.css",
+        "tags": [
+            "Poppins.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Fonts"
+        ]
+    },
+    {
+        "path": "Fonts/Raleway.theme.css",
+        "type": "file",
+        "name": "Raleway.theme.css",
+        "tags": [
+            "Raleway.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Fonts"
+        ]
+    },
+    {
+        "path": "Meme/OnkeoSleepOnMessage.theme.css",
+        "type": "file",
+        "name": "OnkeoSleepOnMessage.theme.css",
+        "tags": [
+            "OnkeoSleepOnMessage.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Meme"
+        ]
+    },
+    {
+        "path": "Meme/SpinHoverAnimation.theme.css",
+        "type": "file",
+        "name": "SpinHoverAnimation.theme.css",
+        "tags": [
+            "SpinHoverAnimation.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Meme"
+        ]
+    },
+    {
+        "path": "Misc/Connections.theme.css",
+        "type": "file",
+        "name": "Connections.theme.css",
+        "tags": [
+            "Connections.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/Dashless.theme.css",
+        "type": "file",
+        "name": "Dashless.theme.css",
+        "tags": [
+            "Dashless.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/iconsConsumeLess.theme.css",
+        "type": "file",
+        "name": "iconsConsumeLess.theme.css",
+        "tags": [
+            "iconsConsumeLess.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/MentionHiglight.theme.css",
+        "type": "file",
+        "name": "MentionHiglight.theme.css",
+        "tags": [
+            "MentionHiglight.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/MinimizeSettings.theme.css",
+        "type": "file",
+        "name": "MinimizeSettings.theme.css",
+        "tags": [
+            "MinimizeSettings.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/ModalSettings.theme.css",
+        "type": "file",
+        "name": "ModalSettings.theme.css",
+        "tags": [
+            "ModalSettings.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/ReColorIcons.theme.css",
+        "type": "file",
+        "name": "ReColorIcons.theme.css",
+        "tags": [
+            "ReColorIcons.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/SettingsIcons.theme.css",
+        "type": "file",
+        "name": "SettingsIcons.theme.css",
+        "tags": [
+            "SettingsIcons.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/Suffix.theme.css",
+        "type": "file",
+        "name": "Suffix.theme.css",
+        "tags": [
+            "Suffix.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Misc/TabSpacing.theme.css",
+        "type": "file",
+        "name": "TabSpacing.theme.css",
+        "tags": [
+            "TabSpacing.theme.css",
+            "C:\\Users\\attud\\OneDrive\\Documents\\GitHub\\Vencord-themes\\Misc"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/BetterProfiles/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "BetterProfiles",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/BetterProfiles.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "BetterProfiles",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/BetterProfiles/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterProfiles",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/BetterProfiles.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "BetterProfiles",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/BetterQuotes/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "BetterQuotes",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/BetterQuotes.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "BetterQuotes",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/BetterQuotes/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterQuotes",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/BetterQuotes.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "BetterQuotes",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChangeColor/AccentColor/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "AccentColor",
+        "baseFolder2": "ChangeColor",
+        "thumbnailPath": "Saltssaumure/docs/_media/AccentColor.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "ChangeColor",
+            "AccentColor",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChangeColor/AccentColor/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "AccentColor",
+        "baseFolder2": "ChangeColor",
+        "thumbnailPath": "Saltssaumure/docs/_media/AccentColor.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "ChangeColor",
+            "AccentColor",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChangeColor/ClientColor/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ClientColor",
+        "baseFolder2": "ChangeColor",
+        "thumbnailPath": "Saltssaumure/docs/_media/ClientColor.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "ChangeColor",
+            "ClientColor",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChangeColor/OtherColors/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "OtherColors",
+        "baseFolder2": "ChangeColor",
+        "thumbnailPath": "Saltssaumure/docs/_media/OtherColors.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "ChangeColor",
+            "OtherColors",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChannelSelections/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "ChannelSelections",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/ChannelSelections.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "ChannelSelections",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChannelSelections/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ChannelSelections",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/ChannelSelections.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "ChannelSelections",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChatBubbles/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "ChatBubbles",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/ChatBubbles.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "ChatBubbles",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ChatBubbles/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ChatBubbles",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/ChatBubbles.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "ChatBubbles",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/GuildBoost/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "GuildBoost",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/GuildBoost.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "GuildBoost",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/GuildBoost/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "GuildBoost",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/GuildBoost.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "GuildBoost",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/GuildList/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "GuildList",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/GuildList.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "GuildList",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/GuildList/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "GuildList",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/GuildList.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "GuildList",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageSection/v1/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "v1",
+        "baseFolder2": "MessageSection",
+        "thumbnailPath": null,
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "MessageSection",
+            "v1",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageSection/v2/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "v2",
+        "baseFolder2": "MessageSection",
+        "thumbnailPath": null,
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "MessageSection",
+            "v2",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageSection/v2/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "v2",
+        "baseFolder2": "MessageSection",
+        "thumbnailPath": null,
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "MessageSection",
+            "v2",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageUltilities/MessageTypes/import_de.css",
+        "type": "file",
+        "name": "import_de.css",
+        "folder": "MessageTypes",
+        "baseFolder2": "MessageUltilities",
+        "thumbnailPath": "Saltssaumure/docs/_media/MessageTypes.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import_de.css",
+            "MessageUltilities",
+            "MessageTypes",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageUltilities/MessageTypes/import_en.css",
+        "type": "file",
+        "name": "import_en.css",
+        "folder": "MessageTypes",
+        "baseFolder2": "MessageUltilities",
+        "thumbnailPath": "Saltssaumure/docs/_media/MessageTypes.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import_en.css",
+            "MessageUltilities",
+            "MessageTypes",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageUltilities/TimestampBubbles/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "TimestampBubbles",
+        "baseFolder2": "MessageUltilities",
+        "thumbnailPath": "Saltssaumure/docs/_media/TimestampBubbles.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "MessageUltilities",
+            "TimestampBubbles",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageUltilities/TimestampBubbles/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "TimestampBubbles",
+        "baseFolder2": "MessageUltilities",
+        "thumbnailPath": "Saltssaumure/docs/_media/TimestampBubbles.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "MessageUltilities",
+            "TimestampBubbles",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageUltilities/Username/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "Username",
+        "baseFolder2": "MessageUltilities",
+        "thumbnailPath": "Saltssaumure/docs/_media/Username.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "MessageUltilities",
+            "Username",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/MessageUltilities/Username/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "Username",
+        "baseFolder2": "MessageUltilities",
+        "thumbnailPath": "Saltssaumure/docs/_media/Username.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "MessageUltilities",
+            "Username",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/OnekoDM/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "OnekoDM",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/OnekoDM.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "OnekoDM",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/OnekoDM/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "OnekoDM",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/OnekoDM.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "OnekoDM",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/StaffTags/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "StaffTags",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/StaffTags.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "StaffTags",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/StaffTags/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "StaffTags",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/StaffTags.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "StaffTags",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/Titlebar/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "Titlebar",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": null,
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "Titlebar",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/Titlebar/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "Titlebar",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": null,
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "Titlebar",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ToolbarHide/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "ToolbarHide",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/ToolbarHide.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "ToolbarHide",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/ToolbarHide/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ToolbarHide",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/ToolbarHide.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "ToolbarHide",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/UserOptions/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "UserOptions",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/UserOptions.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "UserOptions",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/UserOptions/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "UserOptions",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/UserOptions.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "UserOptions",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/UserPanel/import-legacy.css",
+        "type": "file",
+        "name": "import-legacy.css",
+        "folder": "UserPanel",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/UserPanel.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import-legacy.css",
+            "Snippets",
+            "UserPanel",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "Saltssaumure/Snippets/UserPanel/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "UserPanel",
+        "baseFolder2": "Snippets",
+        "thumbnailPath": "Saltssaumure/docs/_media/UserPanel.png",
+        "thumbnail_type": "path",
+        "tags": [
+            "import.css",
+            "Snippets",
+            "UserPanel",
+            "Saltssaumure"
+        ]
+    },
+    {
+        "path": "DaBluLite/AccentSwap/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "AccentSwap",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/ebc24e8f-70b6-4d77-bb84-c8584b60e4b7",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "AccentSwap"
+        ]
+    },
+    {
+        "path": "DaBluLite/AccountDetailsGrid/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "AccountDetailsGrid",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/d8f638d5-30f4-4dbd-b171-b2a146ce282e",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "AccountDetailsGrid"
+        ]
+    },
+    {
+        "path": "DaBluLite/BDSettingsV2/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BDSettingsV2",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/63290651-b890-4f0e-8d8f-98759d57fedc",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BDSettingsV2"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterAuthApps/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterAuthApps",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/d403610f-70b2-46f1-a974-d712a5597d2c",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BetterAuthApps"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterFloatingEditor/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterFloatingEditor",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/dab400e5-c2bf-423d-b6f4-3984c4eb1027",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BetterFloatingEditor"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterModals/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterModals",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/a78462b5-f9b7-402e-9875-c90203d09689",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BetterModals"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterNitroProfileBorder/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterNitroProfileBorder",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/dcf49d77-8b2f-4ef4-bc01-13cd8c3af3ba",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BetterNitroProfileBorder"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterStatusPicker/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterStatusPicker",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/ce55d41b-f55d-4d91-8e38-562fc518de17",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BetterStatusPicker"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterTitlebar/import-trafficlights.css",
+        "type": "file",
+        "name": "import-trafficlights.css",
+        "folder": "BetterTitlebar",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/e5fe7d6f-0884-4f62-924c-99c40ab82505",
+        "thumbnail_type": "url",
+        "tags": [
+            "import-trafficlights.css",
+            "DaBluLite",
+            "BetterTitlebar"
+        ]
+    },
+    {
+        "path": "DaBluLite/BetterTitlebar/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "BetterTitlebar",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/e5fe7d6f-0884-4f62-924c-99c40ab82505",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "BetterTitlebar"
+        ]
+    },
+    {
+        "path": "DaBluLite/ClydeNickname/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ClydeNickname",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/17ba9966-5069-496c-a13e-156b9d412dac",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "ClydeNickname"
+        ]
+    },
+    {
+        "path": "DaBluLite/ConsistentChatbar/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ConsistentChatbar",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/055558c4-b618-441d-afc1-7dd73a804495",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "ConsistentChatbar"
+        ]
+    },
+    {
+        "path": "DaBluLite/Bootup/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "Bootup",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/a0083bb4-9728-4f52-bd15-31fc6e70df12",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "CyanUI2-Ports",
+            "Bootup",
+            "DaBluLite"
+        ]
+    },
+    {
+        "path": "DaBluLite/UserArea2/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "UserArea2",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/a0083bb4-9728-4f52-bd15-31fc6e70df12",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "CyanUI2-Ports",
+            "UserArea2",
+            "DaBluLite"
+        ]
+    },
+    {
+        "path": "DaBluLite/DeclutterBar/import-trafficlights.css",
+        "type": "file",
+        "name": "import-trafficlights.css",
+        "folder": "DeclutterBar",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/4c1a6fb0-803d-451d-9cf6-df1fbe84122c",
+        "thumbnail_type": "url",
+        "tags": [
+            "import-trafficlights.css",
+            "DaBluLite",
+            "DeclutterBar"
+        ]
+    },
+    {
+        "path": "DaBluLite/DeclutterBar/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "DeclutterBar",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/4c1a6fb0-803d-451d-9cf6-df1fbe84122c",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "DeclutterBar"
+        ]
+    },
+    {
+        "path": "DaBluLite/DisablePIP/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "DisablePIP",
+        "thumbnailPath": null,
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "DisablePIP"
+        ]
+    },
+    {
+        "path": "DaBluLite/DiscordTeal/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "DiscordTeal",
+        "thumbnailPath": null,
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "DiscordTeal"
+        ]
+    },
+    {
+        "path": "DaBluLite/FreeNitroProfile/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "FreeNitroProfile",
+        "thumbnailPath": null,
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "FreeNitroProfile"
+        ]
+    },
+    {
+        "path": "DaBluLite/HorizontalServerList/import-topbar.css",
+        "type": "file",
+        "name": "import-topbar.css",
+        "folder": "HorizontalServerList",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/7e79e017-babd-4c08-877e-12a6cabe4701",
+        "thumbnail_type": "url",
+        "tags": [
+            "import-topbar.css",
+            "DaBluLite",
+            "HorizontalServerList"
+        ]
+    },
+    {
+        "path": "DaBluLite/HorizontalServerList/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "HorizontalServerList",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/7e79e017-babd-4c08-877e-12a6cabe4701",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "HorizontalServerList"
+        ]
+    },
+    {
+        "path": "DaBluLite/HorizontalServerList/unified-import-topbar.css",
+        "type": "file",
+        "name": "unified-import-topbar.css",
+        "folder": "HorizontalServerList",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/7e79e017-babd-4c08-877e-12a6cabe4701",
+        "thumbnail_type": "url",
+        "tags": [
+            "unified-import-topbar.css",
+            "DaBluLite",
+            "HorizontalServerList"
+        ]
+    },
+    {
+        "path": "DaBluLite/HorizontalServerList/unified-import.css",
+        "type": "file",
+        "name": "unified-import.css",
+        "folder": "HorizontalServerList",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/7e79e017-babd-4c08-877e-12a6cabe4701",
+        "thumbnail_type": "url",
+        "tags": [
+            "unified-import.css",
+            "DaBluLite",
+            "HorizontalServerList"
+        ]
+    },
+    {
+        "path": "DaBluLite/ImmersiveMode/import-trafficlights.css",
+        "type": "file",
+        "name": "import-trafficlights.css",
+        "folder": "ImmersiveMode",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/fc813dbf-bb1f-4f8f-b74a-4c66b11bdd80",
+        "thumbnail_type": "url",
+        "tags": [
+            "import-trafficlights.css",
+            "DaBluLite",
+            "ImmersiveMode"
+        ]
+    },
+    {
+        "path": "DaBluLite/ImmersiveMode/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ImmersiveMode",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/fc813dbf-bb1f-4f8f-b74a-4c66b11bdd80",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "ImmersiveMode"
+        ]
+    },
+    {
+        "path": "DaBluLite/MacosTitlebar/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "MacosTitlebar",
+        "thumbnailPath": null,
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "MacosTitlebar"
+        ]
+    },
+    {
+        "path": "DaBluLite/Mobilecord/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "Mobilecord",
+        "thumbnailPath": null,
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "Mobilecord"
+        ]
+    },
+    {
+        "path": "DaBluLite/NitroThemesFix/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "NitroThemesFix",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/a60edaf6-2a1a-46f6-b0d8-e31a76dbc484",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "NitroThemesFix"
+        ]
+    },
+    {
+        "path": "DaBluLite/Omnibar/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "Omnibar",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/5f49f6f1-b328-4896-99ca-a93ed06f65fb",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "Omnibar"
+        ]
+    },
+    {
+        "path": "DaBluLite/PrettyFolderIcons/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "PrettyFolderIcons",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/53d0defb-0245-49cb-a517-b610ef7f5261",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "PrettyFolderIcons"
+        ]
+    },
+    {
+        "path": "DaBluLite/QuickSwitchV2/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "QuickSwitchV2",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/90e0ed90-ae04-4f2c-9278-379f3d50b85a",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "QuickSwitchV2"
+        ]
+    },
+    {
+        "path": "DaBluLite/ServersList/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "ServersList",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/c61e6921-c20b-40cf-a5aa-fb42833f30e4",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "ServersList"
+        ]
+    },
+    {
+        "path": "DaBluLite/SpotifyActivityRedesign/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "SpotifyActivityRedesign",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/21b9a770-3c42-47cd-8d58-1caa66a91341",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "SpotifyActivityRedesign"
+        ]
+    },
+    {
+        "path": "DaBluLite/SuperUserArea/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "SuperUserArea",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/d8011e75-6d2c-4f00-b81b-0585c31228cf",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "SuperUserArea"
+        ]
+    },
+    {
+        "path": "DaBluLite/TabsV2HomeIcon/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "TabsV2HomeIcon",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/1e053ce1-46a4-45f9-9b10-6de7d46cdbff",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "TabsV2HomeIcon"
+        ]
+    },
+    {
+        "path": "DaBluLite/TogglesV2/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "TogglesV2",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/64198344-c92d-4d7a-96fc-c9875a0c01f6",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "TogglesV2"
+        ]
+    },
+    {
+        "path": "DaBluLite/UserReimagined/condensed.css",
+        "type": "file",
+        "name": "condensed.css",
+        "folder": "UserReimagined",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/d5e8b782-a4d2-4007-858d-335ea332da71",
+        "thumbnail_type": "url",
+        "tags": [
+            "condensed.css",
+            "DaBluLite",
+            "UserReimagined"
+        ]
+    },
+    {
+        "path": "DaBluLite/UserReimagined/import-ua-top.css",
+        "type": "file",
+        "name": "import-ua-top.css",
+        "folder": "UserReimagined",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/d5e8b782-a4d2-4007-858d-335ea332da71",
+        "thumbnail_type": "url",
+        "tags": [
+            "import-ua-top.css",
+            "DaBluLite",
+            "UserReimagined"
+        ]
+    },
+    {
+        "path": "DaBluLite/UserReimagined/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "UserReimagined",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/d5e8b782-a4d2-4007-858d-335ea332da71",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "UserReimagined"
+        ]
+    },
+    {
+        "path": "DaBluLite/VesktopMica/import.css",
+        "type": "file",
+        "name": "import.css",
+        "folder": "VesktopMica",
+        "thumbnailPath": "https://github.com/DaBluLite/css-snippets/assets/73998678/c6352358-3d9f-4ddf-b859-79d6d0ea7bfb",
+        "thumbnail_type": "url",
+        "tags": [
+            "import.css",
+            "DaBluLite",
+            "VesktopMica"
+        ]
+    }
+]
