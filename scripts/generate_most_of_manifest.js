@@ -27,7 +27,7 @@ for (const folder of EzFolders) {
             path: path.join(path.basename(folder), file).replaceAll(path.sep, "/"),
             type: 'file',
             name: file.replaceAll(path.sep, "/"),
-        tags: [...new Set([file,  folder])],
+        tags: [...new Set([file,  path.basename(folder)])],
         authorId: "566766267046821888"
         })
 }
