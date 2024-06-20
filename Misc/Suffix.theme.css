@@ -10,9 +10,9 @@
     opacity: 0.5
 }
 /* Username */
-.username-h_Y3Us, 
-.base-3bcbY3 .text-3S7XCz strong, 
-.name-3DDHNY {
+.username_ec86aa, 
+.base_d7ebeb .text_d7ebeb strong, 
+.name_b11c5e {
     background: color-mix(in srgb, currentColor 25%, rgba(0, 0, 0, 0.25));
     text-shadow: 0 0 5px color-mix(in srgb, currentColor 25%, rgb(0, 0, 0));
     filter: brightness(1.25);
@@ -20,30 +20,30 @@
     padding: 0 4px;
     border-radius: 4px;
 }
-.username-h_Y3Us::after {
+.username_ec86aa::after {
     position: relative;
     margin: 0 0 0 8px;
     color: inherit;
     text-shadow: 0 0 5px black;
 }
-.contents-2MsGLg .username-h_Y3Us::after {
+.contents_ec86aa .username_ec86aa::after {
 content: "wrote:"
 }
-.message-2CShn3:has(.edited-1v5nT8) .contents-2MsGLg .username-h_Y3Us::after {
+.message_d5deea:has(.edited_ec86aa) .contents_ec86aa .username_ec86aa::after {
 content: "wrote and edited:";
 }
-.message-2CShn3:has(.mediaAttachmentsContainer-1WGRWy, .embed-hKpSrO) .contents-2MsGLg .username-h_Y3Us::after {
+.message_d5deea:has(.mediaAttachmentsContainer__242e2, .embed_ad0b71) .contents_ec86aa .username_ec86aa::after {
 content: "sent attachment(s):"
 }
-.message-2CShn3:has(.stickerAsset-4c7Oqy) .contents-2MsGLg .username-h_Y3Us::after {
+.message_d5deea:has(.stickerAsset_cb3343) .contents_ec86aa .username_ec86aa::after {
 content: "sent a sticker:"
 }
-.message-2CShn3:has(.emoji.jumboable) .contents-2MsGLg .username-h_Y3Us::after {
+.message_d5deea:has(.emoji.jumboable) .contents_ec86aa .username_ec86aa::after {
 content: "sent emoji(s):"
 }
-.hasReply-2Cr4KE .contents-2MsGLg .username-h_Y3Us::after {
+.hasReply_ec86aa .contents_ec86aa .username_ec86aa::after {
 content: "replied:"
 }
-.mentioned-Tre-dv .contents-2MsGLg .username-h_Y3Us::after {
+.mentioned_d5deea .contents_ec86aa .username_ec86aa::after {
 content: "mentioned:"
 }

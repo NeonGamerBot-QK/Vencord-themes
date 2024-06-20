@@ -1,16 +1,16 @@
 /* [[ GUILD BOOSTS ]] */
-.textArea__81b51 {
+.textArea_c75f85 {
   padding: 0 8px;
 }
 
 .progressBar_db0972,
-.progressBarContainer_e11b41 {
+.progressBarContainer_c75f85 {
   height: 40px;
   border-radius: 8px;
 }
 
-.container_bc43c1,
-.containerWithMargin__3a652 {
+.container_c75f85,
+.containerWithMargin_c75f85 {
   position: relative;
   top: 25px;
   margin: 0;
@@ -18,7 +18,7 @@
   width: 105%;
 }
 
-.tadaIcon__5e3cc {
+.tadaIcon_c75f85 {
   right: 98%;
   top: 6px;
   translate: none;
@@ -26,7 +26,7 @@
   opacity: 0.5;
 }
 
-.progressBarContainer_e11b41 {
+.progressBarContainer_c75f85 {
   top: -40px;
   z-index: -1;
 }
@@ -35,12 +35,12 @@
   background: var(--brand-experiment-50a);
 }
 
-.container_bc43c1:hover .progressBar_db0972 {
+.container_c75f85:hover .progressBar_db0972 {
   animation: 5s flicker linear infinite;
   background: var(--brand-experiment-75a);
 }
 
-.container_bc43c1:hover .tadaIcon__5e3cc {
+.container_c75f85:hover .tadaIcon_c75f85 {
   animation: 3s flicker linear infinite;
 }
 

@@ -2,18 +2,18 @@
 example:https://cdn.discordapp.com/attachments/1028106818368589824/1198153087416803368/Animation4.gif?ex=662c9c04&is=661a2704&hm=cd93e5022eecd822de3852adffa25d00ace9febe31365af238414dfc532cfeed&
 pretty much only settings and upload
 **/
-button.button__4f306 /* make user panel buttons round */ {
+button.button_f67531 /* make user panel buttons round */ {
     border-radius: 50%;
 }
-.button__4f306:last-child /* settings button */, 
-.attachButton_b1db83 .attachButtonInner__3ce2b /* upload button */,
-.emojiButton__30ec7 .contents_fb6220 /* emoji button */,
-.closeButton__34341 /* settings exit button */ {
+.button_f67531:last-child /* settings button */, 
+.attachButton_f298d4 .attachButtonInner_f298d4 /* upload button */,
+.emojiButton_d0696b .contents_dd4f85 /* emoji button */,
+.closeButton_df5532 /* settings exit button */ {
     transition: transform 1s ease;
 }
-.button__4f306:last-child:hover,
-.attachButton_b1db83:hover .attachButtonInner__3ce2b,
-.emojiButton__30ec7:hover .contents_fb6220,
-.closeButton__34341:hover {
+.button_f67531:last-child:hover,
+.attachButton_f298d4:hover .attachButtonInner_f298d4,
+.emojiButton_d0696b:hover .contents_dd4f85,
+.closeButton_df5532:hover {
     transform: rotate(360deg);
 }

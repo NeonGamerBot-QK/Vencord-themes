@@ -1,7 +1,7 @@
-.messagesWrapper_ea2b0b {
+.messagesWrapper_e2e187 {
     overflow: hidden;
 }
-.newMessagesBar__8b6d7 {
+.newMessagesBar_cf58b5 {
     top: -48px;
     height: 72px;
     transition: top 0.2s ease;
@@ -9,7 +9,7 @@
     box-shadow: none;
     border-radius: 0;
 }
-.newMessagesBar__8b6d7::before {
+.newMessagesBar_cf58b5::before {
     content: '';
     background: var(--brand-experiment);
     box-shadow: var(--elevation-low);
@@ -18,6 +18,6 @@
     height: 32px;
     border-radius: 12px;
 }
-.newMessagesBar__8b6d7:hover {
+.newMessagesBar_cf58b5:hover {
     top: -12px;
 }

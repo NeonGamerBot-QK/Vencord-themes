@@ -1,7 +1,7 @@
-.accountProfilePopoutWrapper_af829a {left: 708px; top: 50px;}
-.layerContainer_d5a653:has([class^="userPopoutOuter_"])
+.accountProfilePopoutWrapper_b2ca13 {left: 708px; top: 50px;}
+.layerContainer_cd0de5:has([class^="userPopoutOuter_"])
 { backdrop-filter: blur(10px) !important; }
-.accountProfilePopoutWrapper_af829a {
+.accountProfilePopoutWrapper_b2ca13 {
     animation: 0.5s ease-out slide;
 }
 

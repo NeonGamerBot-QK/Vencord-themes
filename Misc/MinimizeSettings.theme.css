@@ -5,8 +5,8 @@ left: 0
 margin: 0;
 width: fit-content
 }
-[class^=accountProfilePopoutWrapper] .section-28YDOf,
-.userPopoutInner-nv9Y92:has(#account) > *:not(:has(#account)),
-.userPopoutOverlayBackground-3A0Pcz:has(#account) > *:not(#account) {
+[class^=accountProfilePopoutWrapper] .section_d7a21f,
+.userPopoutInner_c69a7b:has(#account) > *:not(:has(#account)),
+.userPopoutOverlayBackground_c69a7b:has(#account) > *:not(#account) {
 display: none;
 }

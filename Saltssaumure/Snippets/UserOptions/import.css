@@ -1,5 +1,5 @@
-.userPopoutInner_ac0960:has(#account) > *:not(:has(#account)),
-.userPopoutOverlayBackground__3e7e6:has(#account) > *:not(#account) {
+.userPopoutInner_c69a7b:has(#account) > *:not(:has(#account)),
+.userPopoutOverlayBackground_c69a7b:has(#account) > *:not(#account) {
   display: none !important;
 }
 
@@ -11,7 +11,7 @@
     width: fit-content;
   }
 
-  & .section__62b44 {
+  & .section_d7a21f {
     display: none !important;
   }
 }

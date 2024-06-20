@@ -1,14 +1,14 @@
-.wrapper__7bcde .link__95dc0 /* channels */,
-.container__4f20e /* members */,
-.channel_c21703 /* dms */,
-.side_b4b3f6 .item__48dda /* settings */ {
+.wrapper_d8bfb3 .link_d8bfb3 /* channels */,
+.container_e9f61e /* members */,
+.channel_c91bad /* dms */,
+.side_a0 .item_a0 /* settings */ {
     transition: margin-left 0.2s ease;
 }
-.wrapper__7bcde:hover .link__95dc0,
-.side_b4b3f6 .item__48dda:hover {
+.wrapper_d8bfb3:hover .link_d8bfb3,
+.side_a0 .item_a0:hover {
     margin-left: 10px;
 }
-.container__4f20e:hover,
-.channel_c21703:hover {
+.container_e9f61e:hover,
+.channel_c91bad:hover {
     margin-left: 18px;
 }

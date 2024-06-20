@@ -1,5 +1,5 @@
 /* Make My Mention Different From Other Mentions without affecting #CHANNEL  */
-.theme-dark .mentioned_fa6fd2 .mention {
+.theme-dark .mentioned_d5deea .mention {
     color: red !important;
     }
 
@@ -9,10 +9,10 @@
 }
 
 /* Better Mentions Pulse (after fix) */
-.mentioned_fa6fd2 .mention {
+.mentioned_d5deea .mention {
   background-color: transparent !important;
 }
-.theme-dark .mentioned_fa6fd2 .mention {
+.theme-dark .mentioned_d5deea .mention {
   cursor: pointer;
   box-shadow: 0 0 0 red;
   animation: pulse 1.6s infinite;

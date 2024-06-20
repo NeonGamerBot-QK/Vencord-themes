@@ -1,6 +1,6 @@
-.standardSidebarView__1129a
+.standardSidebarView_c25c6d
  { top: 0 !important; }
-.layer__2efaa + .layer__2efaa
+.layer_d4b6c5 + .layer_d4b6c5
  { border-radius: 10px !important;
    box-shadow: 5px 5px 25px black;
    border: 1px solid var(--border-strong);
@@ -8,6 +8,6 @@
    height: 80vh !important;
    margin: auto !important;
    padding: 0 !important; }
-#app-mount .baseLayer__8fda3 /*keep view under settings*/
+#app-mount .baseLayer_d4b6c5 /*keep view under settings*/
  { opacity: 1 !important;
    transform: unset !important; }
